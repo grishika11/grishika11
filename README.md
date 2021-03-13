@@ -1,6 +1,6 @@
 
 ## Hey 👋, I'm RISHIKA GUPTA!
-<a href='https://www.linkedin.com/in/preeti-verma-6bbb111a9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/rishika-gupta-40877519b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/PreetaVerma2'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/preeta192821'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
@@ -13,12 +13,12 @@ I am a versatilist and easily adapt to different hats (Python Developer 🌐, So
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Django_Rest_Framework**
+- 🔭 &nbsp; I’m currently working on **Machine Learning**
 - 🌱 &nbsp; I’m currently learning Artificial Intelligent; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Preeta192821?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my work are available on [Github](https://github.com/Preeta192821?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/preeti-verma-6bbb111a9/)
-- 📚 &nbsp; When I am free, I love to listen music.
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rishika-gupta-40877519b/)
+- 📚 &nbsp; When I am free, I love to play games.
 <!--- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)--->
 
 
