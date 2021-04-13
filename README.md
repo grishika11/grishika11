@@ -13,7 +13,7 @@ I am a quick learner and easily adapt to different hats (Python Developer 🌐, 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Machine Learning**
+- 🔭 &nbsp; I’m currently working on **Django Framework**
 - 🌱 &nbsp; I’m currently learning Artificial Intelligent; 
 - 👨🏻‍💻 &nbsp; Most of my work are available on [Github]
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
