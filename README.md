@@ -9,7 +9,7 @@ I am a quick learner and easily adapt to different hats (Python Developer 🌐, 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="D:\images\AI.jpg" width="360px"/>
+<img align="right" alt="GIF" src="https://www.techrepublic.com/a/hub/i/r/2021/02/17/3c192f18-47eb-428a-b64f-ba57fcd3c36a/resize/770x/f6331a1067a7b7fa04ef225a6493d63e/programming-coding.jpg" width="360px"/>
   
 ### 🧐 More About Me:
 
