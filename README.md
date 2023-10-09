@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://www.techrepublic.com/a/hub/i/r/2021/02/17/3c192f18-47eb-428a-b64f-ba57fcd3c36a/resize/770x/f6331a1067a7b7fa04ef225a6493d63e/programming-coding.jpg" width="360px"/>
-### 🚀 What I bring to the table:
+🚀 **What I bring to the table:**
+
 ✅ **Expertise in Python and Django**: Python is my language of choice, and Django is my framework of expertise. I leverage the power of these technologies to create secure, maintainable, and high-performance web applications.
 
 🌐 **Full-Stack Prowess**: From backend development, database design, and API integration to crafting responsive frontend experiences using HTML, CSS, and JavaScript, I've got the full-stack covered.
