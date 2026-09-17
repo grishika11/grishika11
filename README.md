@@ -1,39 +1,60 @@
+# Hey 👋, I'm RISHIKA GUPTA!
 
-## Hey 👋, I'm RISHIKA GUPTA!
+💻 **Python Full-Stack Developer | Django | REST APIs | React | PostgreSQL/MySQL**
 
+I'm a passionate **Python Full-Stack Developer with 5+ years of experience** building robust, secure, scalable, and high-performance web applications. I specialize in **Python, Django, Django REST Framework, REST APIs, React, PostgreSQL, and MySQL**, with hands-on experience in developing enterprise applications, workflow-driven systems, API integrations, reporting platforms, and data-driven solutions.
 
+I enjoy solving complex technical problems, optimizing application performance, designing clean architectures, and turning business requirements into reliable software solutions.
 
-💻 Passionate about crafting robust web applications and turning ideas into digital reality, I'm a Python Django developer with a flair for creating efficient and scalable web solutions. With 2+ years of experience in the world of web development, I've honed my skills to build exceptional and user-friendly websites.
-<br/>
-<br/>
+## 🚀 What I Bring to the Table
 
-🚀 **What I bring to the table:**
+✅ **Python & Django Expertise**
+Strong experience developing scalable web applications using **Python, Django, Django REST Framework (DRF), Flask**, and reusable backend components.
 
-✅ **Expertise in Python and Django**: Python is my language of choice, and Django is my framework of expertise. I leverage the power of these technologies to create secure, maintainable, and high-performance web applications.
+🌐 **Full-Stack Development**
+Experienced in building complete applications with **Python/Django on the backend** and **React, HTML, CSS, and JavaScript** on the frontend.
 
-🌐 **Full-Stack Prowess**: From backend development, database design, and API integration to crafting responsive frontend experiences using HTML, CSS, and JavaScript, I've got the full-stack covered.
+🔗 **REST API Development & Integration**
+Designing and consuming secure REST APIs, implementing authentication and authorization, handling third-party integrations, and developing API-driven applications.
 
-🔒 **Security First**: I'm dedicated to ensuring the security of your web applications. I implement best practices for authentication, authorization, and data protection.
+🔐 **Security & Authentication**
+Hands-on experience with **JWT authentication, role-based access control (RBAC), permissions, secure API development, and data protection**.
 
-🔄 **Scalability**: As your project grows, I design and implement scalable solutions that can handle increased traffic and data demands, ensuring your web app remains performant.
+🗄️ **Database & Performance Optimization**
+Working with **PostgreSQL, MySQL**, database design, complex queries, ORM optimization, indexing, and application performance improvements.
 
-📊 **Data-Driven Decisions**: I love data and use it to make informed decisions. I integrate analytics and reporting tools to provide insights into user behavior and application performance.
+📊 **Data & Reporting**
+Experience working with **Pandas, NumPy, Matplotlib, and data-processing workflows** to build reporting and analytical solutions.
 
-🤝 **Team Player**: I thrive in collaborative environments, working closely with designers, product managers, and other developers to bring projects to life on time and within budget.
+⚡ **Scalable & Maintainable Applications**
+Focus on clean code, modular architecture, reusable components, optimized queries, and solutions that can scale with business requirements.
 
-📱 **Mobile-Friendly**: In the mobile-first world, I ensure that your web applications are responsive and accessible across a variety of devices and screen sizes.
+🚀 **Deployment & Server Management**
+Hands-on experience deploying Python applications on **Linux/RHEL environments using Nginx and Gunicorn**, along with troubleshooting production issues.
 
-### 🧐 More About Me:
+🤝 **Enterprise Application Development**
+Experienced in working on large-scale applications involving complex workflows, user roles, permissions, integrations, reporting, and business processes.
 
-- 🔭 &nbsp; I’m currently working on **Django Framework**
-- 🌱 &nbsp; I’m currently learning Artificial Intelligent; 
-- 👨🏻‍💻 &nbsp; Most of my work are available on [Github]
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rishika-gupta-40877519b/)
-- 📚 &nbsp; When I am free, I love to play games.
-<!--- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)--->
+## 🧐 More About Me
 
+* 🔭 Currently working with **Python, Django, REST APIs & React**
+* 🌱 Exploring **Artificial Intelligence, Machine Learning & modern AI technologies**
+* 👨🏻‍💻 My projects and technical work are available on **GitHub**
+* 💬 Ask me about **Python, Django, REST APIs, React, PostgreSQL, MySQL, or backend development**
+* 📫 Connect with me on **LinkedIn**
+* 🎮 When I'm away from coding, I enjoy playing games
 
+### 🛠️ Tech Stack
 
+**Languages:** Python, JavaScript, HTML, CSS
+**Backend:** Django, Django REST Framework, Flask, REST APIs
+**Frontend:** React, HTML5, CSS3, JavaScript, Bootstrap
+**Databases:** PostgreSQL, MySQL
+**Data & Analytics:** Pandas, NumPy, Matplotlib
+**Authentication:** JWT, RBAC, Django Permissions
+**Deployment:** Linux, RHEL, Nginx, Gunicorn
+**Tools:** Git, GitHub, Postman
 
+---
 
+⭐ **I believe in writing clean, scalable code and continuously learning new technologies to build better software.**
